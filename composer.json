@@ -1,15 +1,15 @@
 {
-    "name": "adamwathan/bootforms",
-    "description": "Just a Formbuilder with some Bootstrap specific conveniences. Remembers old input, retrieves error messages and handles all your boilerplate Bootstrap markup automatically.",
+    "name": "ana-lisboa/bootforms",
+    "description": "Fork for admwathan/bootforms. Just a Formbuilder with some Bootstrap specific conveniences. Remembers old input, retrieves error messages and handles all your boilerplate Bootstrap markup automatically.",
     "authors": [
         {
-            "name": "Adam Wathan",
-            "email": "adam.wathan@gmail.com"
+            "name": "Ana Lisboa",
+            "email": "ana@analisboa.pt"
         }
     ],
     "license": "MIT",
     "require": {
-        "php": ">=5.4.0",
+        "php": ">=7.1.0",
         "adamwathan/form": "^0.9.0"
     },
     "require-dev": {
@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-0": {
-            "AdamWathan\\BootForms": "src/"
+            "AnaLisboa\\BootForms": "src/"
         }
     },
     "minimum-stability": "stable"

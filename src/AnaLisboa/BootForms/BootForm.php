@@ -1,4 +1,4 @@
-<?php namespace AdamWathan\BootForms;
+<?php namespace AnaLisboa\BootForms;
 
 class BootForm
 {

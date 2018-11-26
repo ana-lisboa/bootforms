@@ -1,7 +1,7 @@
 <?php
 
-use AdamWathan\BootForms\HorizontalFormBuilder;
-use AdamWathan\Form\FormBuilder;
+use AnaLisboa\BootForms\HorizontalFormBuilder;
+use AnaLisboa\Form\FormBuilder;
 
 class HorizontalFormBuilderTest extends PHPUnit_Framework_TestCase
 {

@@ -1,6 +1,6 @@
-<?php namespace AdamWathan\BootForms\Elements;
+<?php namespace AnaLisboa\BootForms\Elements;
 
-use AdamWathan\Form\Elements\Element;
+use AnaLisboa\Form\Elements\Element;
 
 class HelpBlock extends Element
 {

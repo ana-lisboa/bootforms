@@ -1,8 +1,8 @@
 <?php
 
-use AdamWathan\BootForms\Elements\FormGroup;
-use AdamWathan\BootForms\Elements\HelpBlock;
-use AdamWathan\Form\FormBuilder;
+use AnaLisboa\BootForms\Elements\FormGroup;
+use AnaLisboa\BootForms\Elements\HelpBlock;
+use AnaLisboa\Form\FormBuilder;
 
 class FormGroupTest extends PHPUnit_Framework_TestCase
 {

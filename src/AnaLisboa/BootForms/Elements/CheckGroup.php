@@ -1,6 +1,6 @@
-<?php namespace AdamWathan\BootForms\Elements;
+<?php namespace AnaLisboa\BootForms\Elements;
 
-use AdamWathan\Form\Elements\Label;
+use AnaLisboa\Form\Elements\Label;
 
 class CheckGroup extends FormGroup
 {

@@ -1,10 +1,10 @@
-<?php namespace AdamWathan\BootForms;
+<?php namespace AnaLisboa\BootForms;
 
-use AdamWathan\BootForms\Elements\CheckGroup;
-use AdamWathan\BootForms\Elements\HelpBlock;
-use AdamWathan\BootForms\Elements\HorizontalFormGroup;
-use AdamWathan\BootForms\Elements\OffsetFormGroup;
-use AdamWathan\Form\FormBuilder;
+use AnaLisboa\BootForms\Elements\CheckGroup;
+use AnaLisboa\BootForms\Elements\HelpBlock;
+use AnaLisboa\BootForms\Elements\HorizontalFormGroup;
+use AnaLisboa\BootForms\Elements\OffsetFormGroup;
+use AnaLisboa\Form\FormBuilder;
 
 class HorizontalFormBuilder extends BasicFormBuilder
 {

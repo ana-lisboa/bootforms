@@ -1,6 +1,6 @@
 <?php
 
-use AdamWathan\BootForms\Elements\InputGroup;
+use AnaLisboa\BootForms\Elements\InputGroup;
 
 class InputGroupTest extends PHPUnit_Framework_TestCase
 {

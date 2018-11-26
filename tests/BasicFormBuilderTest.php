@@ -1,7 +1,7 @@
 <?php
 
-use AdamWathan\BootForms\BasicFormBuilder;
-use AdamWathan\Form\FormBuilder;
+use AnaLisboa\BootForms\BasicFormBuilder;
+use AnaLisboa\Form\FormBuilder;
 
 class BasicFormBuilderTest extends PHPUnit_Framework_TestCase
 {

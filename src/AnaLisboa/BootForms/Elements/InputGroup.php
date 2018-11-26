@@ -1,6 +1,6 @@
-<?php namespace AdamWathan\BootForms\Elements;
+<?php namespace AnaLisboa\BootForms\Elements;
 
-use AdamWathan\Form\Elements\Text;
+use AnaLisboa\Form\Elements\Text;
 
 class InputGroup extends Text
 {

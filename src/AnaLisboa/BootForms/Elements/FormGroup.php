@@ -1,7 +1,7 @@
-<?php namespace AdamWathan\BootForms\Elements;
+<?php namespace AnaLisboa\BootForms\Elements;
 
-use AdamWathan\Form\Elements\Element;
-use AdamWathan\Form\Elements\Label;
+use AnaLisboa\Form\Elements\Element;
+use AnaLisboa\Form\Elements\Label;
 
 class FormGroup extends Element
 {
