@@ -20,7 +20,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/ana-lisboa/Form"
+            "url": "https://github.com/ana-lisboa/form"
         }
     ],
     "autoload": {
