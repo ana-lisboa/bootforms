@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e0d8bfe-7037-4c87-963a-328534929795" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AnaLisboa/BootForms/Elements/HelpBlock.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnaLisboa/BootForms/Elements/HelpBlock.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/HelpBlockTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/HelpBlockTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnaLisboa/BootForms/Facades/BootForm.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnaLisboa/BootForms/Facades/BootForm.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,17 +27,17 @@
         <counts>
           <entry key="LICENSE" value="1" />
           <entry key="gitattributes" value="1" />
-          <entry key="json" value="2" />
+          <entry key="json" value="3" />
           <entry key="md" value="3" />
-          <entry key="php" value="23" />
+          <entry key="php" value="24" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JSON" value="2" />
+          <entry key="JSON" value="3" />
           <entry key="Markdown" value="3" />
-          <entry key="PHP" value="23" />
+          <entry key="PHP" value="24" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="XML" value="1" />
         </counts>
@@ -48,14 +46,14 @@
         <counts>
           <entry key="json" value="37" />
           <entry key="md" value="121" />
-          <entry key="php" value="9" />
+          <entry key="php" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JSON" value="37" />
           <entry key="Markdown" value="121" />
-          <entry key="PHP" value="9" />
+          <entry key="PHP" value="25" />
         </counts>
       </usages-collector>
     </session>
@@ -83,7 +81,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/HelpBlockTest.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="660">
@@ -92,16 +90,35 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/AnaLisboa/BootForms/Facades/BootForm.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="25" selection-start-column="16" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>adam</find>
       <find>help</find>
+      <find>adam</find>
     </findStrings>
     <dirStrings>
       <dir>C:\laragon\www\bootforms</dir>
       <dir>C:\laragon\www\bootforms\src\AnaLisboa\BootForms</dir>
+      <dir>C:\laragon\www\bootforms\src</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -128,6 +145,7 @@
         <option value="$PROJECT_DIR$/readme.md" />
         <option value="$PROJECT_DIR$/src/AnaLisboa/BootForms/Elements/HelpBlock.php" />
         <option value="$PROJECT_DIR$/tests/HelpBlockTest.php" />
+        <option value="$PROJECT_DIR$/src/AnaLisboa/BootForms/Facades/BootForm.php" />
       </list>
     </option>
   </component>
@@ -196,7 +214,7 @@
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="help&#9;FILE&#9;file://C:/laragon/www/bootforms/tests/HelpBlockTest.php" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../form" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Laravel-Translatable-Bootforms" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -223,12 +241,12 @@
       <option name="presentableId" value="Default" />
       <updated>1543231740377</updated>
       <workItem from="1543231742753" duration="2147000" />
-      <workItem from="1543837980658" duration="1009000" />
+      <workItem from="1543837980658" duration="1988000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3156000" />
+    <option name="totallyTimeSpent" value="4135000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
@@ -372,13 +390,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/AnaLisboa/BootForms/BootFormsServiceProvider.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="512">
@@ -420,6 +431,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
           <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AnaLisboa/BootForms/Facades/BootForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="16" selection-end-column="25" />
         </state>
       </provider>
     </entry>
