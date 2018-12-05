@@ -30,7 +30,7 @@ class FormGroup extends Element
         return $html;
     }
 
-    public function helpBlock($text, $class)
+    public function helpBlock($text, $class = null)
     {
         if (isset($this->helpBlock)) {
             return;
