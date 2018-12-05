@@ -10,10 +10,12 @@ use AnaLisboa\Form\FormBuilder;
 class BasicFormBuilder
 {
     protected $builder;
+    protected $errorClass;
 
     public function __construct(FormBuilder $builder)
     {
         $this->builder = $builder;
+        $this->errorClass = "is-invalid";
     }
 
     protected function formGroup($label, $name, $control)
@@ -25,7 +27,7 @@ class BasicFormBuilder
 
         if ($this->builder->hasError($name)) {
             $formGroup->helpBlock($this->builder->getError($name));
-            $formGroup->addClass('has-error');
+            $formGroup->addClass($this->errorClass);
         }
 
         return $this->wrap($formGroup);
@@ -93,7 +95,7 @@ class BasicFormBuilder
 
         if ($this->builder->hasError($name)) {
             $checkGroup->helpBlock($this->builder->getError($name));
-            $checkGroup->addClass('has-error');
+            $checkGroup->addClass($this->errorClass);
         }
         return $checkGroup;
     }
@@ -158,7 +160,7 @@ class BasicFormBuilder
 
         if ($this->builder->hasError($name)) {
             $formGroup->helpBlock($this->builder->getError($name));
-            $formGroup->addClass('has-error');
+            $formGroup->addClass($this->errorClass);
         }
 
         return $this->wrap($formGroup);
