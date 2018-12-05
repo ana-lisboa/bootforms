@@ -6,10 +6,10 @@ class HelpBlock extends Element
 {
     private $message;
 
-    public function __construct($message)
+    public function __construct($message, $class = null)
     {
         $this->message = $message;
-        $this->addClass('form-text text-muted');
+        $this->addClass('form-text text-muted' . ' ' . $class);
     }
 
     public function render()

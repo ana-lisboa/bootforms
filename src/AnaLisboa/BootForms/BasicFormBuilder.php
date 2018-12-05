@@ -26,7 +26,7 @@ class BasicFormBuilder
         $formGroup = new FormGroup($label, $control);
 
         if ($this->builder->hasError($name)) {
-            $formGroup->helpBlock($this->builder->getError($name));
+            $formGroup->helpBlock($this->builder->getError($name), 'invalid-feedback');
             $control->addClass($this->errorClass);
         }
 
@@ -94,7 +94,7 @@ class BasicFormBuilder
         $checkGroup = new CheckGroup($label);
 
         if ($this->builder->hasError($name)) {
-            $checkGroup->helpBlock($this->builder->getError($name));
+            $checkGroup->helpBlock($this->builder->getError($name), 'invalid-feedback');
             $control->addClass($this->errorClass);
         }
         return $checkGroup;
@@ -159,7 +159,7 @@ class BasicFormBuilder
         $formGroup = new FormGroup($label, $control);
 
         if ($this->builder->hasError($name)) {
-            $formGroup->helpBlock($this->builder->getError($name));
+            $formGroup->helpBlock($this->builder->getError($name), 'invalid-feedback');
             $control->addClass($this->errorClass);
         }
 
