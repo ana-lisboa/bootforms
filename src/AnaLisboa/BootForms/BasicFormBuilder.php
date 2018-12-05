@@ -27,7 +27,7 @@ class BasicFormBuilder
 
         if ($this->builder->hasError($name)) {
             $formGroup->helpBlock($this->builder->getError($name));
-            $formGroup->addClass($this->errorClass);
+            $control->addClass($this->errorClass);
         }
 
         return $this->wrap($formGroup);
@@ -95,7 +95,7 @@ class BasicFormBuilder
 
         if ($this->builder->hasError($name)) {
             $checkGroup->helpBlock($this->builder->getError($name));
-            $checkGroup->addClass($this->errorClass);
+            $control->addClass($this->errorClass);
         }
         return $checkGroup;
     }
@@ -160,7 +160,7 @@ class BasicFormBuilder
 
         if ($this->builder->hasError($name)) {
             $formGroup->helpBlock($this->builder->getError($name));
-            $formGroup->addClass($this->errorClass);
+            $control->addClass($this->errorClass);
         }
 
         return $this->wrap($formGroup);

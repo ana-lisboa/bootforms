@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e0d8bfe-7037-4c87-963a-328534929795" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/AnaLisboa/BootForms/BasicFormBuilder.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnaLisboa/BootForms/BasicFormBuilder.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,7 +48,7 @@
         <counts>
           <entry key="json" value="85" />
           <entry key="md" value="121" />
-          <entry key="php" value="86" />
+          <entry key="php" value="133" />
           <entry key="xml" value="18" />
         </counts>
       </usages-collector>
@@ -57,7 +56,7 @@
         <counts>
           <entry key="JSON" value="85" />
           <entry key="Markdown" value="121" />
-          <entry key="PHP" value="86" />
+          <entry key="PHP" value="133" />
           <entry key="XML" value="18" />
         </counts>
       </usages-collector>
@@ -77,8 +76,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/AnaLisboa/BootForms/BasicFormBuilder.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-158">
-              <caret line="159" lean-forward="true" selection-start-line="159" selection-end-line="159" />
+            <state relative-caret-position="271">
+              <caret line="27" column="36" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="36" />
               <folding>
                 <element signature="e#38#82#0#PHP" expanded="true" />
               </folding>
@@ -306,12 +305,12 @@
       <updated>1543231740377</updated>
       <workItem from="1543231742753" duration="2147000" />
       <workItem from="1543837980658" duration="7373000" />
-      <workItem from="1544029766369" duration="891000" />
+      <workItem from="1544029766369" duration="1565000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10411000" />
+    <option name="totallyTimeSpent" value="11085000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
@@ -511,8 +510,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AnaLisboa/BootForms/BasicFormBuilder.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-158">
-          <caret line="159" lean-forward="true" selection-start-line="159" selection-end-line="159" />
+        <state relative-caret-position="271">
+          <caret line="27" column="36" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="36" />
           <folding>
             <element signature="e#38#82#0#PHP" expanded="true" />
           </folding>
