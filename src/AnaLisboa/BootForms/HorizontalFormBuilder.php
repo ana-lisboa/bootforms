@@ -26,7 +26,7 @@ class HorizontalFormBuilder extends BasicFormBuilder
 
     public function open()
     {
-        return $this->builder->open()->addClass('form-horizontal');
+        return $this->builder->open();
     }
 
     protected function formGroup($label, $name, $control)
@@ -39,6 +39,7 @@ class HorizontalFormBuilder extends BasicFormBuilder
         $control->id($name)->addClass('form-control');
 
         $formGroup = new HorizontalFormGroup($label, $control, $this->getControlSizes());
+        $formGroup->addClass('row');
 
         if ($this->builder->hasError($name)) {
             $formGroup->helpBlock($this->builder->getError($name));
