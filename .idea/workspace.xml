@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e0d8bfe-7037-4c87-963a-328534929795" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/AnaLisboa/BootForms/Elements/HelpBlock.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnaLisboa/BootForms/Elements/HelpBlock.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnaLisboa/BootForms/Elements/FormGroup.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnaLisboa/BootForms/Elements/FormGroup.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,10 +18,10 @@
     <session id="-2102829000">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.2" value="2" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.2" value="3" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -29,8 +30,8 @@
           <entry key="gitattributes" value="2" />
           <entry key="gitignore" value="1" />
           <entry key="json" value="5" />
-          <entry key="md" value="4" />
-          <entry key="php" value="39" />
+          <entry key="md" value="5" />
+          <entry key="php" value="40" />
           <entry key="xml" value="2" />
           <entry key="yml" value="1" />
         </counts>
@@ -38,8 +39,8 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JSON" value="5" />
-          <entry key="Markdown" value="4" />
-          <entry key="PHP" value="39" />
+          <entry key="Markdown" value="5" />
+          <entry key="PHP" value="40" />
           <entry key="PLAIN_TEXT" value="6" />
           <entry key="XML" value="2" />
         </counts>
@@ -48,7 +49,7 @@
         <counts>
           <entry key="json" value="85" />
           <entry key="md" value="121" />
-          <entry key="php" value="244" />
+          <entry key="php" value="315" />
           <entry key="xml" value="18" />
         </counts>
       </usages-collector>
@@ -56,7 +57,7 @@
         <counts>
           <entry key="JSON" value="85" />
           <entry key="Markdown" value="121" />
-          <entry key="PHP" value="244" />
+          <entry key="PHP" value="315" />
           <entry key="XML" value="18" />
         </counts>
       </usages-collector>
@@ -73,11 +74,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AnaLisboa/BootForms/BasicFormBuilder.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="161" column="65" selection-start-line="161" selection-start-column="65" selection-end-line="161" selection-end-column="65" />
+            <state relative-caret-position="271">
+              <caret line="160" column="36" selection-start-line="160" selection-start-column="28" selection-end-line="160" selection-end-column="36" />
               <folding>
                 <element signature="e#38#82#0#PHP" expanded="true" />
               </folding>
@@ -88,7 +89,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/composer.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
+            <state relative-caret-position="561">
               <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
             </state>
           </provider>
@@ -97,17 +98,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AnaLisboa/BootForms/Elements/CheckGroup.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1004">
+            <state relative-caret-position="66">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/AnaLisboa/BootForms/Elements/FormGroup.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+            <state relative-caret-position="627">
+              <caret line="40" column="53" selection-start-line="40" selection-start-column="53" selection-end-line="40" selection-end-column="53" />
               <folding>
                 <element signature="e#47#83#0#PHP" expanded="true" />
               </folding>
@@ -118,7 +119,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AnaLisboa/BootForms/Elements/GroupWrapper.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2607">
+            <state relative-caret-position="-2621">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
@@ -128,7 +129,16 @@
         <entry file="file://$PROJECT_DIR$/src/AnaLisboa/BootForms/Elements/HelpBlock.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="363">
-              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+              <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/HelpBlockTest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -141,6 +151,7 @@
       <find>adam</find>
       <find>addClass</find>
       <find>hasError</find>
+      <find>test</find>
     </findStrings>
     <dirStrings>
       <dir>C:\laragon\www\bootforms</dir>
@@ -171,9 +182,9 @@
         <option value="$PROJECT_DIR$/src/AnaLisboa/BootForms/Facades/BootForm.php" />
         <option value="$PROJECT_DIR$/phpunit.xml" />
         <option value="$PROJECT_DIR$/composer.json" />
-        <option value="$PROJECT_DIR$/src/AnaLisboa/BootForms/Elements/FormGroup.php" />
         <option value="$PROJECT_DIR$/src/AnaLisboa/BootForms/Elements/HelpBlock.php" />
         <option value="$PROJECT_DIR$/src/AnaLisboa/BootForms/BasicFormBuilder.php" />
+        <option value="$PROJECT_DIR$/src/AnaLisboa/BootForms/Elements/FormGroup.php" />
       </list>
     </option>
   </component>
@@ -278,18 +289,19 @@
       <updated>1543231740377</updated>
       <workItem from="1543231742753" duration="2147000" />
       <workItem from="1543837980658" duration="7373000" />
-      <workItem from="1544029766369" duration="2618000" />
+      <workItem from="1544029766369" duration="2882000" />
+      <workItem from="1544097175975" duration="273000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12138000" />
+    <option name="totallyTimeSpent" value="12675000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18031785" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18215159" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -353,27 +365,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/HelpBlockTest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/todo.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="99">
-            <caret line="3" column="15" lean-forward="true" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
-          </first_editor>
           <second_editor />
         </state>
       </provider>
@@ -415,20 +410,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AnaLisboa/BootForms/Elements/GroupWrapper.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2607">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/AnaLisboa/BootForms/Elements/HorizontalFormGroup.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-773">
@@ -457,36 +438,67 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/AnaLisboa/BootForms/Elements/CheckGroup.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1004">
+        <state relative-caret-position="66">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AnaLisboa/BootForms/Elements/FormGroup.php">
+    <entry file="file://$PROJECT_DIR$/src/AnaLisboa/BootForms/BasicFormBuilder.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        <state relative-caret-position="271">
+          <caret line="160" column="36" selection-start-line="160" selection-start-column="28" selection-end-line="160" selection-end-column="36" />
           <folding>
-            <element signature="e#47#83#0#PHP" expanded="true" />
+            <element signature="e#38#82#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="270">
+            <caret line="100" column="10" selection-start-line="100" selection-start-column="10" selection-end-line="100" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/HelpBlockTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AnaLisboa/BootForms/Elements/HelpBlock.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="363">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AnaLisboa/BootForms/BasicFormBuilder.php">
+    <entry file="file://$PROJECT_DIR$/src/AnaLisboa/BootForms/Elements/GroupWrapper.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="161" column="65" selection-start-line="161" selection-start-column="65" selection-end-line="161" selection-end-column="65" />
+        <state relative-caret-position="-2621">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AnaLisboa/BootForms/Elements/FormGroup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="40" column="53" selection-start-line="40" selection-start-column="53" selection-end-line="40" selection-end-column="53" />
           <folding>
-            <element signature="e#38#82#0#PHP" expanded="true" />
+            <element signature="e#47#83#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>

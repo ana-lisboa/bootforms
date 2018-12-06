@@ -35,7 +35,11 @@ class FormGroup extends Element
         if (isset($this->helpBlock)) {
             return;
         }
-        $this->helpBlock = new HelpBlock($text, $class);
+        if ($class == null){
+            $this->helpBlock = new HelpBlock($text);
+        }else{
+            $this->helpBlock = new HelpBlock($text, $class);
+        }
         return $this;
     }
 
